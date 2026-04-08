@@ -24,5 +24,8 @@ Portfolio Concentration: Used Decomposition Trees to reveal that High-income ear
 
 Demographic Trends: Mapped a 11.75% default peak in 2016, providing a historical baseline for future risk modeling.
 
+<img width="1285" height="724" alt="Screenshot 2026-03-22 120534" src="https://github.com/user-attachments/assets/be4a0a9e-a070-4953-a497-f0ec67227109" />
+<img width="1288" height="722" alt="Screenshot 2026-03-22 120526" src="https://github.com/user-attachments/assets/e243c140-20f7-431f-b89e-df467d8c27e7" />
+<img width="1286" height="723" alt="Screenshot 2026-03-22 120517" src="https://github.com/user-attachments/assets/18bd49ea-6079-47f4-b05c-2df13277067e" />
 
 Vishal Final Year, B.Tech in CSE (AI & Data Science) | IIIT Manipur
